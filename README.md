@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I’m Mohit Srivastava<br><br>🔭 I’m currently working on AOSSIE (Australian Open Source Software Innovation and Education)<br>👯 I’m looking to collaborate on Google DeepMind Labs<br>🤝 I’m looking for help with Machine Learning & AI projects<br>🌱 I’m currently learning new languages like Julia<br>💬 Ask me about Web3, Android Development, AI/ML, Blockchain, and Open Source<br>⚡ Fun fact: I love building apps that mix AI + Healthcare + Web3 🚀
+Hi there 👋 I’m Mohit Srivastava<br><br>🔭 I’m currently working on C2SI <br>👯 I’m looking to collaborate on Google DeepMind Labs<br>🤝 I’m looking for help with Machine Learning & AI projects<br>🌱 I’m currently learning new languages like Julia<br>💬 Ask me about Web3, Android Development, AI/ML, Blockchain, and Open Source<br>⚡ Fun fact: I love building apps that mix AI + Healthcare + Web3 🚀
 
 
 ## 🌐 Socials:
